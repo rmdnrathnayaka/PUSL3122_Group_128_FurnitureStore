@@ -1,0 +1,17 @@
+install eclipse ide 
+java 8 
+set java path on system variable
+in cmd run java and javac (if there is no errors installation success)
+install mysql 
+import database i provided 
+open project in eclipse 
+then edit dbutil java file according to ur MySQL settings in my case i used below values
+	// Database configuration (update these values)
+    private static final String DB_URL = "jdbc:mysql://localhost:3306/furniturenew";
+    private static final String DB_USER = "root";
+    private static final String DB_PASSWORD = "";
+in users table manual add 2 users 
+then run the project
+
+
+
